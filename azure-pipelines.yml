@@ -5,7 +5,7 @@ variables:
 - name: 'github-organisation'
   value: 'cbchalmers'
 - name: 'github-repository'
-  value: 'GitHub-Organisation-with-Repositories'
+  value: 'GitHub-Organisation-Repositories'
 
 trigger:
 - master
