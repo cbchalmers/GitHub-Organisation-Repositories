@@ -1,9 +1,11 @@
 variable "github_organization" {
-  type    = string
-  default = "your-organisation-name"
+  description = "Your GitHub organisation name"
+  type        = string
+#  default = "your-organisation-name"
 }
 
 variable "github_token" {
-  type    = string
-  default = "your-personal-access-token"
+  description = "Your personal access token"
+  type        = string
+#  default = "your-personal-access-token"
 }
